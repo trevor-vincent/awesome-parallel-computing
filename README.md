@@ -33,7 +33,8 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [STAPL: Standard Template Adaptive Parallel Programming Library in C++](https://parasol.tamu.edu/stapl/)
 - [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
-
+- [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
+- [MPI: Message passing interface: MPIch implementation](https://www.mpich.org/)
 
 #### Concurrent Data Structures
 
@@ -56,6 +57,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 #### Generic Parallel Computing Topics
 
+- [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
 - [Concurrency in C++20 and Beyond](https://www.youtube.com/watch?v=jozHW_B3D4U) - A. Williams
 - [Is Parallel Programming still Hard?](https://www.youtube.com/watch?v=YM8Xy6oKVQg) - P. McKenney, M. Michael, and M. Wong at CppCon 2017
 - [The Speed of Concurrency: Is Lock-free Faster?](https://www.youtube.com/watch?v=9hJkWwHDDxs) - Fedor G Pikus in CppCon 2016
