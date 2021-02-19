@@ -34,7 +34,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
-- [MPI: Message passing interface: MPIch implementation](https://www.mpich.org/)
+- [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
 
 #### Concurrent Data Structures
 
